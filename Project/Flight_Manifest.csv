@@ -1,7 +1,0 @@
-﻿Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
-CA-123,Vancouver,Toronto,27-Apr-22, 10:00,Amir,Parizi, M,10A,08-Oct-94,FALSE,FALSE,FALSE,FALSE,FALSE
-CA-123,Vancouver,Toronto,27-Apr-22, 10:00,Will,Smith, M,10B,20-Dec-65,FALSE,FALSE,FALSE,FALSE,FALSE
-CA-123,Vancouver,Toronto,27-Apr-22, 10:00,Leo,Messi,M,15B,30-Oct-75,FALSE,FALSE,FALSE,FALSE,FALSE
-CA-123,Vancouver,Toronto,27-Apr-22, 10:00,Jennifer,Lewrence,F,10C,10-Sep-85,FALSE,FALSE,FALSE,FALSE,FALSE
-CA-123,Vancouver,Toronto,27-Apr-22, 10:00,George,Cloony,M,15C,20-Apr-45,FALSE,FALSE,FALSE,FALSE,FALSE
-,,,,,,,,,,,,,,
